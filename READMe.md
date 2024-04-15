@@ -1,4 +1,4 @@
-# ComparisonClimatologies
+# Comparison of Ocean climatologies
 
 Comparative analysis of different ocean climatologies products that use Argo as their main database. 
 The analysis is  carried out at latitude 24.5N, as it is one of the most sampled latitudes.
