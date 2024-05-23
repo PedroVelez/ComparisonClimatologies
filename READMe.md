@@ -15,3 +15,5 @@ https://hadleyserver.metoffice.gov.uk/en4/download.html
 
 GLORYS: Global Ocean Physics Reanalysis (cmems_mod_glo_phy_my_0.083deg_P1M-m)
 https://data.marine.copernicus.eu/product/GLOBAL_MULTIYEAR_PHY_001_030/files?subdataset=cmems_mod_glo_phy_my_0.083deg_P1M-m_202311
+
+CORA
